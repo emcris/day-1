@@ -1,0 +1,20 @@
+/* 1 point */
+h1{
+    color: red;
+}
+
+/* 10 point */
+.green-text{
+    color: #8080ff;
+}
+/* 100 point and idealy you would use id's mainly for Javascript */
+#width-300{
+    width: 300px;
+}
+
+p{
+    border: 1px solid rgb(255, 102, 255, 0.5);
+}
+.border-blue{
+    border: 1px solid hsl(220, 100%, 30%, 50%);
+}
