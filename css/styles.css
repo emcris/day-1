@@ -1,6 +1,6 @@
 /* 1 point */
 h1{
-    color: red;
+    color: dodgerblue;
 }
 
 /* 10 point */
@@ -17,4 +17,14 @@ p{
 }
 .border-blue{
     border: 1px solid hsl(220, 100%, 30%, 50%);
+}
+.list-item{
+    font-size: 24pt;
+    padding: 10px;
+    text-align: center;
+    border: 1px hotpink;
+    border-style: dotted;
+    margin: 10px;
+    background-color: yellow;
+
 }
