@@ -26,5 +26,6 @@ p{
     border-style: dotted;
     margin: 10px;
     background-color: yellow;
+    list-style: inside;
 
 }
